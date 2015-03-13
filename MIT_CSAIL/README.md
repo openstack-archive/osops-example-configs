@@ -66,7 +66,9 @@ storage.
 ## Neutron
 
 ML2/OVS with shared VLAN based provider network(s) using public ipv4
-addressing. Projects may create private GRE based overlay networks
+addressing. Projects may create private GRE based overlay networks.
+
+Shared provider net has jumbo frame 9000 MTU inside instances.
 
 No L3 agent -- routing provided by core, non-openstack, infrastructure
 
