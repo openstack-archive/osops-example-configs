@@ -3,6 +3,10 @@
 Our cloud is running a fairly simple non-HA configuration over approx
 75 hypervisor nodes.
 
+This is primarily a private research cloud for
+<http://www.csail.mit.edu>, though it does hold web and other
+'production' services.
+
 We initially installed Essex on Ubuntu 12.04 and have progressively
 updated.  As of this writing all nodes are Ubuntu 14.04 running Juno.
 
