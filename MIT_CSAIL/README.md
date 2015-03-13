@@ -56,7 +56,9 @@ Ceph RBD
 
 ## Nova
 
-Libvirt KVM using Ceph RBD for ephemeral storage
+Libvirt KVM using Ceph RBD for ephemeral storage.
+
+Live migration implemented using RSA key based ssh.
 
 ## Cinder
 
