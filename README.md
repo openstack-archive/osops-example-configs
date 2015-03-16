@@ -24,3 +24,7 @@ we know about:
   tokens and such) and in chef templates. Thats what we run in
   production on several clusters at the moment.
   
+* https://github.com/blueboxgroup/ursula
+  Blue Box has the same, but in Ansible roles. The secret stuff is in
+  an internal repo that provides variables to fill in content.
+  
