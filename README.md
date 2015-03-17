@@ -28,3 +28,6 @@ we know about:
   Blue Box has the same, but in Ansible roles. The secret stuff is in
   an internal repo that provides variables to fill in content.
   
+* https://github.com/gfa/os-sample-configs
+  Default configs for nova, keystone, cinder, ceilometer and heat.
+  For Debian and Ubuntu versions of Havana, Icehouse and Juno.
