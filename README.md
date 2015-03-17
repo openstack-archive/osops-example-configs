@@ -28,3 +28,7 @@ we know about:
   Blue Box has the same, but in Ansible roles. The secret stuff is in
   an internal repo that provides variables to fill in content.
   
+* https://github.com/NeCTAR-RC
+  NeCTAR uses puppet templates, mainly based on upstream pupet-openstack for a
+  multi-site production cloud, and several test clusters. Configs for multiple
+  versions are available. Search for puppet-{nova,designate...} repositories.
