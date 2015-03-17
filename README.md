@@ -32,3 +32,7 @@ we know about:
   NeCTAR uses puppet templates, mainly based on upstream pupet-openstack for a
   multi-site production cloud, and several test clusters. Configs for multiple
   versions are available. Search for puppet-{nova,designate...} repositories.
+
+* https://github.com/gfa/os-sample-configs
+  Default configs for nova, keystone, cinder, ceilometer and heat.
+  For Debian and Ubuntu versions of Havana, Icehouse and Juno.
