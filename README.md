@@ -35,6 +35,10 @@ we know about:
   multi-site production cloud, and several test clusters. Configs for multiple
   versions are available. Search for puppet-{nova,designate...} repositories.
 
+* https://github.com/jetstream-cloud/Jetstream-Salt-States
+  Jetstream-Cloud.org salt states, IU_production branch is used to deploy various
+  services
+
 * https://github.com/gfa/os-sample-configs
   Default configs for nova, keystone, cinder, ceilometer and heat.
   For Debian and Ubuntu versions of Havana, Icehouse and Juno.
