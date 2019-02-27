@@ -477,7 +477,7 @@ core_plugin = ml2
 
 [quotas]
 # Default driver to use for quota checks
-# quota_driver = neutron.db.quota_db.DbQuotaDriver
+# quota_driver = neutron.db.quota.driver.DbQuotaDriver
 
 # Resource name(s) that are supported in quota features
 # quota_items = network,subnet,port
